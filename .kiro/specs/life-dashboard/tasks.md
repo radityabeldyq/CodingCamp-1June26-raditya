@@ -124,14 +124,14 @@ Semua kode ditulis dalam tiga file: `index.html`, `css/style.css`, dan `js/app.j
     - _Requirements: 10.1, 10.3, 10.4_
 
 - [ ] 10. Upload ke GitHub dan Deploy ke GitHub Pages
-  - [-] 10.1 Push source code ke GitHub menggunakan GitHub Desktop
+  - [x] 10.1 Push source code ke GitHub menggunakan GitHub Desktop
     - Buka GitHub Desktop, pastikan repository sudah terhubung ke remote GitHub
     - Tambahkan semua file ke commit: `index.html`, `css/style.css`, `js/app.js`, dan folder `.kiro/` (termasuk specs/life-dashboard/)
     - Tulis commit message yang deskriptif (contoh: "feat: implementasi Life Dashboard lengkap")
     - Klik "Push origin" untuk mengunggah ke repository GitHub
     - _Requirements: 10.1, 10.5_
 
-  - [~] 10.2 Publish site menggunakan GitHub Pages
+  - [x] 10.2 Publish site menggunakan GitHub Pages
     - Buka repository di GitHub melalui browser
     - Pergi ke **Settings** → **Pages**
     - Di bagian "Source", pilih branch `main` (atau `master`) dan folder `/ (root)`
